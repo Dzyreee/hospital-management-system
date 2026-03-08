@@ -29,7 +29,7 @@ A Java console-based Hospital Management System built with OOP principles. The s
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/Dzyreee/hospital-management-system.git
    ```
 2. Open the project in Eclipse
 3. Run `MainApp.java`
